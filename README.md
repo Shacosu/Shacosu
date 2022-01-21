@@ -1,5 +1,3 @@
-## Personaliza tu pantalla de presentación de Github
-
 ### Badges
 
 <h4>Programming Languages</h4>
@@ -63,12 +61,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/pablojs/">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pablojs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/Shacosu_">
+  <a href="https://twitter.com/Shacosu1">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 
