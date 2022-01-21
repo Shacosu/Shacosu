@@ -46,42 +46,13 @@
 
 ---
 
-### Github Stats
-(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
-
+<!-- ### Github Stats
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
-</table>
-
-### Desglose del desarrollo semanal
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
-CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-```
-<!--END_SECTION:waka-->
-
-### Github Activity 
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/veroMoreno/mealplan-front/issues/1) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-2. 🗣 Commented on [#2](https://github.com/veroMoreno/mealplan-front/issues/2) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-3. ❗️ Closed issue [#3](https://github.com/veroMoreno/mealplan-front/issues/3) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-4. ❌ Closed PR [#4](https://github.com/veroMoreno/mealplan-front/pull/4) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-5. 🗣 Commented on [#5](https://github.com/veroMoreno/mealplan-front/issues/5) in [veroMoreno/mealplan-front](https://github.com/veroMoreno/mealplan-front)
-<!--END_SECTION:activity-->
-
-### Repositorios TOP
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=react-url-shortener-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/react-url-shortener-front)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=mealplan-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/mealplan-front)
+</table> -->
 
 ---
 
@@ -107,9 +78,3 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 </p>
 
 ---
-
-<!-- ### 🎧 Music | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
- -->
-<!-- # Inspírate todavía aún + ! 
-[Awesome Github Profile READMEs](https://awesomegithubprofile.tech/) -->
