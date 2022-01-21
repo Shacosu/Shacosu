@@ -1,14 +1,15 @@
-### Badges
 
-<h4>Programming Languages</h4>
+<h2>Programming Languages</h2>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> -->
 </p>
 
-<h3>
-</h3> 
+<h4>
+  🟢 Frontend
+</h4> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,9 +18,9 @@
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p>
 
-<h3>
- ★  Back Badges
-</h3> 
+<h4>
+ ⚫ Backend
+</h4> 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
 </p>
 
-<h4>Tools & Technologies</h4>
+<h4> 🟡 Tools & Technologies </h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -40,9 +41,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-<a target="_blank" href="https://dev.to/envoy_/150-badges-for-github-pnk">150+ Badgets aquí!</a>
-
----
 
 <!-- ### Github Stats
 <table>
@@ -52,11 +50,11 @@
   </tr>
 </table> -->
 
----
+<h3>
+  🔵 Social networks
+</h3>
 
-### Iconos & badgets sociales
-
-<p>Instagram <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
+<p>Instagram <a href="https://www.instagram.com/4notF0und4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4notF0und4" height="30" width="40" /></a>
 </p>
 
 <p>
