@@ -71,4 +71,7 @@
   </a>
 </p>
 
+<br/>
+
+![Shacosu GitHub stats](https://github-readme-stats.vercel.app/api?username=Shacosu&show_icons=true&theme=radical)
 ---
