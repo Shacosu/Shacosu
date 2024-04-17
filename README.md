@@ -1,4 +1,4 @@
-<h2 align="left">Bienvenido 👋! Mi nombre es Pablo Espinoza y soy desarrollador de software 💻</h2>
+<h2 align="left">Bienvenido a mi Github 👋! Mi nombre es Pablo Espinoza y soy desarrollador de software 💻</h2>
 
 ###
 
